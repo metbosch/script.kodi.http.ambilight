@@ -1,14 +1,7 @@
-# script.kodi.hue.ambilight
+# script.kodi.http.ambilight
 
-[![Build Status](https://travis-ci.org/mpolednik/script.kodi.hue.ambilight.svg?branch=master)](https://travis-ci.org/mpolednik/script.kodi.hue.ambilight)
-
-A Kodi add-on that controls Philips Hue lights. 
-
-## Compatibility
-|Kodi v16|Kodi v17+|
-|--------|---------|
-|[download](https://github.com/mpolednik/script.kodi.hue.ambilight/archive/v16.zip)|[download](https://github.com/mpolednik/script.kodi.hue.ambilight/archive/master.zip)|
-|Branch "v16"|Branch "master"|
+A Kodi add-on that controls HTTP RGB lights.
+**This branch is only a fork and doesn't have any change for now. My goal is to use as a ambilight backend an Arduino with Wifi capabilities which controls an RGB led strip.** 
 
 ## Light Groups
 
